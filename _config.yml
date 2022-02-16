@@ -55,7 +55,7 @@ content:
     content:
       - layout: left
         title: Ecole Polytechnique
-        caption: 2019 - 2022(Expect)
+        caption: 2019 - 2022(Expected)
         sub_title: BSc Mathematics and Computer Science
         quote: >
           The school was established in 1794 by the mathematician Gaspard Monge during the French Revolution, and it was once previously a military academy under Napoleon I in 1804. The institution is still supervised by the French Ministry of Defence.
@@ -72,7 +72,7 @@ content:
         additional_links:
           - title:  AIHoTT
             icon: fab fa-github
-            url: https://github.com/hyleIndex/AIHoTT
+            url: https://github.com/hyleIndex/AIHoTT/paper/paper.pdf
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
