@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Peixin You is a bachelor student in Ecole Polytechnique with double major in mathematics and computer science. He interested in logic, formal method, verification, type theory and higher category theory. He is doing his bachelor thesis under supervision by [Samuel Mimram](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram//) 
+Peixin You is a Bachelor student at Ecole Polytechnique in Paris, France, majoring in mathematics and computer science. He interested in logic, formal method, verification, type theory and higher category theory. He is doing his bachelor thesis under supervision by [Samuel Mimram](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram//) 
+
+# Latest news
+
+- 2022/01/24 Start the bachelor thesis
