@@ -71,7 +71,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  AIHoTT
-            icon: fa-file-pdf-o
+            icon: far fa-file-pdf
             url: https://github.com/hyleIndex/AIHoTT/blob/main/paper/paper.pdf
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
