@@ -72,7 +72,7 @@ content:
         additional_links:
           - title:  AIHoTT
             icon: fab fa-github
-            url: https://github.com/hyleIndex/AIHoTT/paper/paper.pdf
+            url: https://github.com/hyleIndex/AIHoTT/blob/main/paper/paper.pdf
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -89,7 +89,7 @@ content:
         sub_title: Reseach internship
         caption: Jan. 2022 - Present
         description: | # this will include new lines to allow paragraphs
-            Analysing the syntax and samentics of *Faust* 
+            The goal of this project is to analyse the syntax and the semantics of the Faust programming language, which is dedicated to sound synthesis and audio processing with a strong focus on the design of synthesizers, musical instruments, audio effects, etc. The aim to get a better understanding of the categorical properties of the language by comparing it to well-known constructions such as cartesian closed categories and variants.
 
   - title: A Little More About Me
     layout: text
