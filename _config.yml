@@ -1,14 +1,15 @@
 # Site settings
-name: 董小姐
-location: 大连
-company: IBM
-position: Java开发工程师
-github: https://github.com/
-facebook: https://www.facebook.com/
-phone: 1580424XXXX
-email: xxxx@xxx.com
+name: 王永顺
+location: 杭州
+company: 上海汉得信息技术股份有限公司
+position: Java软件工程师
+github: https://github.com/ever-young/
+phone: 16621153668
+email: 2587336357@qq.com
+wechat: 16621153668
+baseurl: ""
 
-baseurl: "/resume.io"
+avatarUrl: "http://asc.hand-china.com/hrms/baseupload/load?url=/20180301/1519903052625.png"
 
 permalink: /:year/:month/:day/:title/
 
