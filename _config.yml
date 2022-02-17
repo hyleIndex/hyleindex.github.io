@@ -77,12 +77,12 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : HyleIndex
 
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Peixin You"
   avatar           : "profile.png"
   bio              : "Bachelor Student"
   location         : "Palaiseau"
