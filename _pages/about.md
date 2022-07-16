@@ -12,4 +12,6 @@ Peixin You (游培鑫) is a Bachelor student at Ecole Polytechnique in Paris, Fr
 
 # Latest news
 
+- 2022/04/01 Finished the Bachelor thesis
+
 - 2022/01/24 Start the bachelor thesis
