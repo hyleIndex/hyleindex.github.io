@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peixin You"
 title_separator          : "-"
 name                     : &name "Peixin You"
-description              : &description "Bachelor Student"
+description              : &description "PhD Student"
 url                      : https://hyleindex.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hyleindex/hyleindex.github.io"
@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Peixin You"
   avatar           : "profile.png"
-  bio              : "Bachelor Student"
-  location         : "Palaiseau"
+  bio              : "PhD Student"
+  location         : "New Haven\n AKW 301"
   employer         :
   pubmed           :
   orcid            :
