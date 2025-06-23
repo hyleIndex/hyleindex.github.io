@@ -13,7 +13,6 @@ timezone: ''
 # URL
 url: https://hyleindex.github.io/
 # Extensions
-theme: hexo-theme-researcher
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -101,6 +100,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
+theme: hexo-theme-researcher
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
