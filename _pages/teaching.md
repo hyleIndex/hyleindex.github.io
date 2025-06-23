@@ -1,4 +1,0 @@
----
-permalink: /teaching/
-title: "Teaching"
----
