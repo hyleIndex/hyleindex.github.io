@@ -105,4 +105,6 @@ theme: hexo-theme-researcher
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:hyleindex/hyleindex.github.io.git
+  branch: gh-pages
