@@ -11,7 +11,7 @@ menu:
     url: /projects/
     icon: fas fa-project-diagram
   - name: CV
-    url: /cv/
+    url: /CV/
     icon: fas fa-id-card
   - name: Talks
     url: /talks/
@@ -26,35 +26,35 @@ cv:
 
 # About
 about:
-  I am a PhD student
+  I am a PhD student at Yale university supervised by Zhong Shao. My research interest lies in quantum computing, formal verfication, concurrency and logic. 
 
 # Academic Profiles
 academic_profiles:
-  google_scholar: https://scholar.google.com/citations?user=YOUR_ID
-  orcid: https://orcid.org/YOUR_ID
-  researchgate: https://www.researchgate.net/profile/YOUR_ID
-  github: https://github.com/YOUR_ID
+  google_scholar: https://scholar.google.com/citations?user=vSzBfk4AAAAJ&hl=en
+  orcid: https://orcid.org/0009-0002-8035-5209
+  # researchgate: https://www.researchgate.net/profile/YOUR_ID
+  github: https://github.com/hyleindex
   linkedin: https://linkedin.com/in/YOUR_ID
 
 # Contact
 contact:
-  email: your.email@example.com
-  phone: "+0 123 456789"
-  address: "Room 123, Department of Biology, University of Example, 12345 City, Country"
-  google_map: "https://maps.app.goo.gl/xxxxxxxxxxx"
-  office_hours: "Mon–Fri 10:00–16:00"
+  email: hyleindex@gmail.com
+  # phone: "+0 123 456789"
+  address: "Room 310, AKW, Yale University, New Haven, CT 06510, USA"
+  # google_map: "https://maps.app.goo.gl/xxxxxxxxxxx"
+  # office_hours: "Mon–Fri 10:00–16:00"
 
 # Push/Ab
 # Google adsense
-google_adsense: your_google_adsense_id
+# google_adsense: your_google_adsense_id
 # Umami
-umami_id: your_umami_id
+# umami_id: your_umami_id
 # Baidu_tongji
-baidu_tongji: your_baidu_tongji_id
+# baidu_tongji: your_baidu_tongji_id
 
 # daisyui themes
 daisyui:
-  default: light
+  default: cupcake
   enabled:
     - light
     - dark
