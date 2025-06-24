@@ -11,7 +11,7 @@ menu:
     url: /projects/
     icon: fas fa-project-diagram
   - name: CV
-    url: /cv/
+    url: /CV/
     icon: fas fa-id-card
   - name: Talks
     url: /talks/
