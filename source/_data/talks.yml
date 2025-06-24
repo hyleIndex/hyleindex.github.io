@@ -1,11 +1,11 @@
-# - title: "Recent Advances in Machine Learning"
-#   type: "conference"
-#   venue: "International Conference on Machine Learning (ICML)"
-#   date: "July 15, 2023"
-#   location: "Honolulu, Hawaii"
-#   year: 2023
-#   description: "Keynote presentation on recent developments in machine learning algorithms and their applications."
-#   slides: "/slides/icml_2023.pdf"
+- title: "N/A"
+  type: "conference"
+  venue: "N/A"
+  date: "July 15, 2023"
+  location: "N/A"
+  year: 2023
+  description: "N/A"
+  # slides: "/slides/icml_2023.pdf"
 #   video: "https://www.youtube.com/watch?v=example1"
 
 # - title: "Deep Learning for Medical Imaging"

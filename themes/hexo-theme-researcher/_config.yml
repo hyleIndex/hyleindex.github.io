@@ -11,7 +11,7 @@ menu:
     url: /projects/
     icon: fas fa-project-diagram
   - name: CV
-    url: /CV/
+    url: /cv/
     icon: fas fa-id-card
   - name: Talks
     url: /talks/
@@ -30,7 +30,7 @@ about:
 
 # Academic Profiles
 academic_profiles:
-  google_scholar: https://scholar.google.com/citations?user=vSzBfk4AAAAJ&hl=en
+  google_scholar: https://scholar.google.com/citations?user=vSzBfk4AAAAJ
   orcid: https://orcid.org/0009-0002-8035-5209
   # researchgate: https://www.researchgate.net/profile/YOUR_ID
   github: https://github.com/hyleindex
@@ -46,7 +46,7 @@ contact:
 
 # Push/Ab
 # Google adsense
-# google_adsense: your_google_adsense_id
+google_adsense: pub-1234567890123456
 # Umami
 # umami_id: your_umami_id
 # Baidu_tongji

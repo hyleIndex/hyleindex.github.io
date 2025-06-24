@@ -17,8 +17,8 @@ education:
 experience:
   - position: "Teaching Assistant"
     institution: "Yale University"
-    period: "2024 Fall"
-    description: "CPSC : Theory of Distributed System"
+    period: "2025 Spring"
+    description: "CPSC 465: Theory of Distributed System"
     # responsibilities:
     #   - "Supervising 5 PhD students and 3 postdoctoral researchers"
     #   - "Teaching advanced courses in machine learning and AI"
@@ -43,41 +43,39 @@ experience:
   #     - "Collaborated with product teams on AI applications"
   #     - "Published 5 papers and filed 3 patents"
 
-# skills:
-#   "Programming Languages":
-#     - "Python"
-#     - "C++"
-#     - "Java"
-#     - "JavaScript"
+skills:
+  "Programming Languages":
+    - "Python"
+    - "C++"
+    - "Coq"
+    - "Agda"
   
-#   "Machine Learning":
-#     - "Deep Learning"
-#     - "Natural Language Processing"
-#     - "Computer Vision"
-#     - "Reinforcement Learning"
+  # "Machine Learning":
+  #   - "Deep Learning"
+  #   - "Natural Language Processing"
+  #   - "Computer Vision"
+  #   - "Reinforcement Learning"
   
-#   "Tools & Frameworks":
-#     - "TensorFlow"
-#     - "PyTorch"
-#     - "scikit-learn"
-#     - "Git"
-#     - "Docker"
+  # "Tools & Frameworks":
+  #   - "TensorFlow"
+  #   - "PyTorch"
+  #   - "scikit-learn"
+  #   - "Git"
+  #   - "Docker"
 
-# awards:
+awards:
 #   - title: "Best Paper Award"
 #     issuer: "International Conference on Machine Learning"
 #     date: "2022"
 #     description: "For outstanding contribution to the field of machine learning"
 
-#   - title: "Early Career Research Award"
-#     issuer: "National Science Foundation"
-#     date: "2021-02-21"
-#     description: "Recognizing exceptional promise in research"
+  - title: "N/A"
+    issuer: "N/A"
+    date: "2021-02-21"
+    description: "N/A"
 
-#   - title: "Teaching Excellence Award"
-#     issuer: "Stanford University"
-#     date: "2020"
-#     description: "For outstanding contributions to teaching"
+  # - title: "Not yet"
+    # description: "For outstanding contributions to teaching"
 
 languages:
   - name: "English"
